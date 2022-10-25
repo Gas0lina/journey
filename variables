@@ -1,0 +1,9 @@
+var1 = 10
+var2 = 56.3
+var3 = 'Yogesh'
+var4 = True
+
+print(type(var1))
+print(type(var2))
+print(type(var3))
+print(type(var4))

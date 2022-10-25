@@ -1,0 +1,4 @@
+f_name ='Yogesh'
+l_name = 'Nayaka'
+#fl_name = f_name + ' ' +l_name
+print(f'{f_name} {l_name} is my full name')
